@@ -10,13 +10,13 @@ Our customers have their own network terms of service and privacy policies that 
 
 #### Corporate Privacy Policy
 
-Our corporate privacy policy is at [nearbuy_systems_privacy_policy.md](nearbuy_systems_privacy_policy.md), which governs the data we collect on behalf of our customers. 
+Our corporate privacy policy is at [nearbuy_systems_privacy_policy.md](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_privacy_policy.md), which governs the data we collect on behalf of our customers. 
 
 #### Corporate Guest/Lab/Demo Wi-Fi Network
 
-The terms of service for our office Wi-Fi network are at [nearbuy_systems_wi-fi_terms_of_service.md](nearbuy_systems_wi-fi_terms_of_service.md). 
+The terms of service for our office Wi-Fi network are at [nearbuy_systems_wi-fi_terms_of_service.md](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_wi-fi_terms_of_service.md). 
 
-The privacy policy that governs data collected on our corporate and demo networks is at [nearbuy_systems_wi-fi_network_privacy_policy.md](nearbuy_systems_wi-fi_network_privacy_policy.md).
+The privacy policy that governs data collected on our corporate and demo networks is at [nearbuy_systems_wi-fi_network_privacy_policy.md](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_wi-fi_network_privacy_policy.md).
 
 ### Contact
 
