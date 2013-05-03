@@ -11,7 +11,7 @@ Redwood City, CA 94063  #### Revision History
 
 Initial version effective 19 December 2012 - [Link](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_privacy_policy-20121219.md) - [PDF](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_privacy_policy-20121219.pdf?raw=true)  Updated 1 May 2013 - [Link](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_privacy_policy-20130503.md) - [PDF](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_privacy_policy-20130503.pdf?raw=true)
 
-The latest version is always at [https://privacy.nearbuysystems.com/](https://privacy.nearbuysystems.com/), with a printable version at [https://privacy.nearbuysystems.com/print](https://privacy.nearbuysystems.com/print). 
+The latest version is always at [https://privacy.nearbuysystems.com/](https://privacy.nearbuysystems.com/), with a printable version at [https://privacy.nearbuysystems.com/print.pdf](https://privacy.nearbuysystems.com/print.pdf). 
 
 You can also track and compare changes to our policies on GitHub at [https://github.com/nearbuy/privacy-policy](https://github.com/nearbuy/privacy-policy).
 
