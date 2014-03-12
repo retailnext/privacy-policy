@@ -1,23 +1,13 @@
-### Nearbuy Systems Privacy Policies
+### RetailNext Privacy Policies
 
-[Nearbuy Systems](http://www.nearbuysystems.com) offers a suite of analytics tools to help retailers understand how smartphones and the mobile Internet are transforming the in-store shopping experience. 
+[RetailNext](http://www.retailnext.net) offers a suite of analytics tools to help retailers understand how smartphones and the mobile Internet are transforming the in-store shopping experience. 
 
-Here's where we store the latest version of our corporate privacy policy, along with the privacy policy and terms of service for our own corporate guest and demonstration networks. 
+Here's where we store historical versions of our corporate privacy policy. **The policy at <http://retailnext.net/policies/privacy-policy/> is the active one, regardless of what is stored here.**
 
-For more information, visit [our privacy website](http://privacy.nearbuysystems.com).
+For more information, visit [our website](http://retailnext.net) and see our most current [privacy policy](http://retailnext.net/policies/privacy-policy/).
 
 Our customers have their own network terms of service and privacy policies that govern how they use data from our service. 
 
-#### Corporate Privacy Policy
-
-Our corporate privacy policy is at [nearbuy_systems_privacy_policy.md](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_privacy_policy.md), which governs the data we collect on behalf of our customers. 
-
-#### Corporate Guest/Lab/Demo Wi-Fi Network
-
-The terms of service for our office Wi-Fi network are at [nearbuy_systems_wi-fi_terms_of_service.md](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_wi-fi_terms_of_service.md). 
-
-The privacy policy that governs data collected on our corporate and demo networks is at [nearbuy_systems_wi-fi_network_privacy_policy.md](https://github.com/nearbuy/privacy-policy/blob/master/nearbuy_systems_wi-fi_network_privacy_policy.md).
-
 ### Contact
 
-Contact us at <legal@nearbuysystems.com> if you have any questions about these policies. 
+Contact us at <privacy-inquries@retailnext.net> if you have any questions about these policies. 
