@@ -40,7 +40,7 @@ RetailNext determines the location of a smartphone or wireless computing device 
 RetailNext  Privacy Inquiries  
 60 S. Market Street, Floor 10  San Jose, CA 95113  privacy-inquiries@retailnext.net#### Prior Versions
 
-Previous version archived 12 March 2013 - [Link](https://github.com/retailnext/privacy-policy/blob/master/retailnext_privacy_policy_archived-20130312.md) - [PDF](https://github.com/retailnext/privacy-policy/blob/master/retailnext_privacy_policy_archived-20130312.pdf?raw=true)
+Previous version archived 12 March 2014 - [Link](https://github.com/retailnext/privacy-policy/blob/master/retailnext_privacy_policy_archived-20140312.md) - [PDF](https://github.com/retailnext/privacy-policy/blob/master/retailnext_privacy_policy_archived-20140312.pdf?raw=true)
 
 From Nearbuy Systems (prior to its acquisition by RetailNext):
 
