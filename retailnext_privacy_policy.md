@@ -1,6 +1,6 @@
 ### RetailNext Privacy Policy
 
-Effective date: October 25, 2021
+Effective date: 29 October 2021
 
 This policy relates to the practices of RetailNext Inc. ("RetailNext") regarding our websites and the products and services we sell.
 

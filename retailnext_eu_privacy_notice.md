@@ -1,6 +1,6 @@
 ### RetailNext Supplemental EU Privacy Notice
 
-Effective date: 25 October 2021
+Effective date: 29 October 2021
 
 This GDPR notice is a supplement to our full privacy notice (<https://retailnext.net/legal#privacy-policy>/). It provides additional details to data subjects in the European Union and European Economic Area.
 
