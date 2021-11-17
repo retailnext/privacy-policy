@@ -2,7 +2,7 @@
 
 Effective date: 25 October 2021
 
-This GDPR notice is a supplement to our full privacy notice (<https://retailnext.net/legal#privacy-policy>/). It provides additional details to data subjects in the European Union and European Economic Area.
+This GDPR notice is a supplement to our full privacy notice (<https://retailnext.net/legal/privacy-policy>/). It provides additional details to data subjects in the European Union and European Economic Area.
 
 This supplemental policy describes the personal information we collect about individuals ("you") on our own websites when you visit or provide information to us. We process your data according to the rules of the EU General Data Protection Regulation (GDPR).
 
