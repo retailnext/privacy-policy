@@ -60,13 +60,13 @@ If RetailNext is involved in a bankruptcy, merger, acquisition, reorganization, 
 
 #### EU Residents
 
-EU and EEA data subjects should also review our supplemental GDPR privacy notice at <https://retailnext.net/legal#gdpr-notice>, which includes information about our compliance with the General Data Protection Regulation (GDPR).
+EU and EEA data subjects should also review our supplemental GDPR privacy notice at <https://retailnext.net/legal/gdpr-notice>, which includes information about our compliance with the General Data Protection Regulation (GDPR).
 
 Despite its invalidation, RetailNext continues to participate in the EU-U.S. Privacy Shield framework as set forth by the U.S. Department of Commerce, and we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  For more information on our participation and adherence to the Privacy Shield Principles, please refer to the supplemental GDPR Privacy Notice.
 
 #### California Residents
 
-California residents should also review our supplemental CCPA privacy notice at <https://retailnext.net/legal#ccpa-notice>, which includes information about our compliance with the California Consumer Privacy Act (CCPA).
+California residents should also review our supplemental CCPA privacy notice at <https://retailnext.net/legal/ccpa-notice>, which includes information about our compliance with the California Consumer Privacy Act (CCPA).
 
 #### Our Policy Toward Children
 
@@ -117,6 +117,6 @@ Updated 1 May 2013 - [Link](https://github.com/retailnext/privacy-policy/blob/ma
 
 Initial version effective 19 December 2012 - [Link](https://github.com/retailnext/privacy-policy/blob/master/nearbuy_systems_privacy_policy-20121219.md) - [PDF](https://github.com/retailnext/privacy-policy/blob/master/nearbuy_systems_privacy_policy-20121219.pdf?raw=true) 
 
-The latest version is always at <https://retailnext.net/legal#privacy-policy>, with a printable version [here](https://github.com/retailnext/privacy-policy/blob/master/retailnext_privacy_policy.pdf?raw=true). 
+The latest version is always at <https://retailnext.net/legal/privacy-policy>, with a printable version [here](https://github.com/retailnext/privacy-policy/blob/master/retailnext_privacy_policy.pdf?raw=true). 
 
 You can also track and compare changes to our policies on GitHub at [https://github.com/retailnext/privacy-policy](https://github.com/retailnext/privacy-policy).
