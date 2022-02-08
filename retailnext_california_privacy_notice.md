@@ -49,90 +49,23 @@ This Supplemental CCPA Privacy Policy describes the personal information we gene
 
 We will ask that you provide certain information to verify your identity. If you have a password-protected account with us, we may verify your identity through our existing authentication practices for your account. The information that we ask you to provide to verify your identity will depend on your prior interactions with us and the sensitivity of the personal information at issue. We will respond to your request in accordance with the CCPA. If we deny requests, we will explain why.
 
-#### 2. Our Personal Information Handling Practices in 2019
+#### 2. Our Personal Information Handling Practices in 2020
 
 We have set out below the categories of personal information we have collected about California residents in the preceding 12 months and, for each category of personal information collected, the categories of sources from which that information was collected, the business or commercial purposes for which the information was collected, and the categories of third parties with whom we shared the personal information.
 
-<table>
-	<thead>
-		<tr>
-			<th>Category of personal information</th>
-			<th>We collected such personal information to use for the following business or commercial purposes:</th>
-			<th>We have collected such personal information from the following categories of sources:</th>
-			<th>We shared such personal information with the following categories of third parties:</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Identifiers such as a real name, alias, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.</td>
-			<td>To provide a more customized web experience and to understand site usage and improve the content and offerings of the site.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> operating systems and platforms;<br> advertising networks and data analytics providers.
-			</td>
-		</tr>
-		<tr>
-			<td>Any categories of personal information described in subdivision (e) of Section 1798.80: &ldquo;Personal information&rdquo; means any information that identifies, relates to, describes, or is capable of being associated with, a particular individual, including, but not limited to, his or her name, signature, social security number, physical characteristics or description, address, telephone number, passport number, driver&rsquo;s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. &ldquo;Personal information&rdquo; does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records.</td>
-			<td>For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities;<br> For employee onboarding;<br> To make contacts with you by telephone, email, or ground mail, to provide you with information and advertisements about RetailNext and our services, establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services.
-			</td>
-			<td>Directly from the California resident;<br> From government entities from which public records are obtained.</td>
-			<td>Cloud hosting and internet service providers;<br> government entities;<br> operating systems and platforms;<br> advertising networks and data analytics providers;<br> social networks;<br> business management service providers.</td>
-		</tr>
-		<tr>
-			<td>Characteristics of protected classifications under California or federal law, including age (40 years or older), race, color, national origin, citizenship, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), veteran or military status.</td>
-			<td>For employee onboarding.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> government entities;<br> operating systems and platforms;<br> employment related service providers.</td>
-		</tr>
-		<tr>
-			<td>Commercial information, including records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.</td>
-			<td>To establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services;<br> to make contacts with you by telephone, email, or ground mail, to provide you with information and advertisements about RetailNext and our services.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> government entities;<br> operating systems and platforms;<br> sales and related service providers.</td>
-		</tr>
-		<tr>
-			<td>Biometric information.</td>
-			<td>N/A</td>
-			<td>N/A</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer&rsquo;s interaction with an Internet Web site, application, or advertisement.</td>
-			<td>To provide a more customized web experience and to understand site usage and improve the content and offerings of the site;<br> To make contacts with you by telephone, email, or ground mail, to provide you with information and advertisements about RetailNext and our services, establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> operating systems and platforms;<br> advertising networks and data analytics providers;<br> social networks.</td>
-		</tr>
-		<tr>
-			<td>Geolocation data.</td>
-			<td>Network security;<br> To provide a more customized web experience and to understand site usage and improve the content and offerings of the site.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> operating systems and platforms;<br> security service providers.</td>
-		</tr>
-		<tr>
-			<td>Audio, electronic, visual, thermal, or similar information.</td>
-			<td>To establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> operating systems and platforms;</td>
-		</tr>
-		<tr>
-			<td>Professional or employment-related information.</td>
-			<td>For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities;<br> For employee onboarding.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> operating systems and platforms;<br> employment related service providers.</td>
-		</tr>
-		<tr>
-			<td>Education information, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99).</td>
-			<td>For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities.</td>
-			<td>Directly from the California resident.</td>
-			<td>Cloud hosting and internet service providers;<br> operating systems and platforms;<br> recruitment service providers.</td>
-		</tr>
-		<tr>
-			<td>Inferences drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumer&rsquo;s, characteristics, behavior, attitudes, abilities, and aptitudes.</td>
-			<td>For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities;<br> For employee onboarding.</td>
-			<td>Directly from the California resident</td>
-			<td>Cloud hosting and internet service providers;<br> operating systems and platforms;<br> employment related service providers.</td>
-		</tr>
-	</tbody>
-</table>
+| Category of personal information | We collected such personal information to use for the following business or commercial purposes: | We have collected such personal information from the following categories of sources: | We shared such personal information with the following categories of third parties: |
+| ---------- | ---------- | ---------- | ---------- |
+| Identifiers such as a real name, alias, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. | To provide a more customized web experience and to understand site usage and improve the content and offerings of the site. | Directly from the California resident. | Cloud hosting and internet service providers; operating systems and platforms; advertising networks and data analytics providers. |
+| Any categories of personal information described in subdivision (e) of Section 1798.80: "Personal information" means any information that identifies, relates to, describes, or is capable of being associated with, a particular individual, including, but not limited to, his or her name, signature, social security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. "Personal information" does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records. | For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities; For employee onboarding and any ongoing employment relationship; To make contacts with you by telephone, email, or ground mail, to provide you with information and advertisements about RetailNext and our services, establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services. | Directly from the California resident; From government entities from which public records are obtained. | Cloud hosting and internet service providers; government entities; operating systems and platforms; advertising networks and data analytics providers; social networks; business management service providers. |
+| Characteristics of protected classifications under California or federal law, including age (40 years or older), race, color, national origin, citizenship, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), veteran or military status. | For employee onboarding and any ongoing employment relationship. | Directly from the California resident. | Cloud hosting and internet service providers; government entities; operating systems and platforms; employment related service providers. |
+| Commercial information, including records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | To establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services; To make contacts with you by telephone, email, or ground mail, to provide you with information and advertisements about RetailNext and our services. | Directly from the California resident. | Cloud hosting and internet service providers; government entities; operating systems and platforms; Sales and related service providers. |
+| Biometric information. | N/A | N/A | N/A |
+| Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement. | To provide a more customized web experience and to understand site usage and improve the content and offerings of the site; To make contacts with you by telephone, email, or ground mail, to provide you with information and advertisements about RetailNext and our services, establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services; Network security | Directly from the California resident. | Cloud hosting and internet service providers; operating systems and platforms; advertising networks and data analytics providers; social networks; Security service providers. |
+| Geolocation data. | Network security; To provide a more customized web experience and to understand site usage and improve the content and offerings of the site. | Directly from the California resident. | Cloud hosting and internet service providers; operating systems and platforms; Security service providers. |
+| Audio, electronic, visual, thermal, or similar information. | To establish and maintain a well-managed customer or prospective customer relationship, and to evaluate, develop, and improve our services. | Directly from the California resident. | Cloud hosting and internet service providers; operating systems and platforms. |
+| Professional or employment-related information. | For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities; For employee onboarding and any ongoing employment relationship. | Directly from the California resident. | Cloud hosting and internet service providers; operating systems and platforms; employment related service providers. |
+| Education information, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99). | For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities. | Directly from the California resident. | Cloud hosting and internet service providers; operating systems and platforms; Recruitment service providers. |
+| Inferences drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumer's characteristics, behavior, attitudes, abilities, and aptitudes. | For the purposes of recruitment and evaluations of qualifications for possible employment or internship possibilities; For employee onboarding and any ongoing employment relationship. | Directly from the California resident. | Cloud hosting and internet service providers; operating systems and platforms; employment related service providers. |
 
 #### 3. Disclosures of Personal Information, No Sale
 
